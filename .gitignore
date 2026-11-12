@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+kaggle.json
+
+# Dataset files - keep the raw and processed data local
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE and OS
+.vscode/
+.DS_Store
+Thumbs.db
