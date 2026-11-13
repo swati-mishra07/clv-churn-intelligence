@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.py[cod]
@@ -11,11 +12,19 @@ venv/
 !.env.example
 kaggle.json
 
-# Dataset files - keep the raw and processed data local
+# Raw and processed datasets
 data/raw/*
 !data/raw/.gitkeep
+
 data/processed/*
 !data/processed/.gitkeep
+
+# Uplift datasets
+data/uplift/*
+!data/uplift/.gitkeep
+
+# Customer-level generated predictions
+reports/uplift/uplift_customer_predictions.csv
 
 # Jupyter
 .ipynb_checkpoints/
