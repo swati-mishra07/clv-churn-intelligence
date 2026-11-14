@@ -36,3 +36,10 @@ reports/uplift/uplift_customer_predictions.csv
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Demo recordings
+demo/*.mp4
+
+# Presentation documents
+presentations/*.pptx
+presentations/*.docx
