@@ -314,6 +314,17 @@ Potential future improvements include:
 - Deployment and automated model retraining.
 - Validation of retention strategies through controlled experiments.
 
+
+## Project Demo
+
+Watch the recorded walkthrough of the Customer Lifetime Value and Churn Intelligence System:
+
+[**Watch Project Demo**](https://drive.google.com/file/d/1PiJ29u2eYRAuuduipAquVYj6PpUyGovo/view?usp=sharing)
+
+The demonstration covers the project overview, customer churn predictions, retention ROI, model explainability, survival analysis, and uplift modelling.
+
+
+
 ## Author
 
 **Swati Mishra**
